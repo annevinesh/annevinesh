@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Image before the greeting (150x150px) -->
-<img src="https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true" width="150" height="150" alt="Vinesh Krishna Anne Image"> <!-- Replace with your image link -->
+<img src="https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true" width="150" height="150">
 
 <!-- Greeting Text -->
 ## I'm **Vinesh Krishna Anne**!
@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annevinesh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvvinesh866@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1-555-555-5555)  <!-- Replace with your phone number -->
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1-703-618-1163)  <!-- Replace with your phone number -->
 
 </div>
 
