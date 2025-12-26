@@ -36,7 +36,7 @@ class VineshKrishnaAnne:
         return [
             "🤖 Autonomous Systems & Navigation",
             "🧠 Computer Vision & Deep Learning", 
-            "🎮 XR/VR Development",
+            "🎮 Robot Design- CAD/CAM/CAE Expert",
             "🔧 Sensor Fusion & IoT Systems"
         ]
     
