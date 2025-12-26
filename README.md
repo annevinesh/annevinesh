@@ -7,7 +7,7 @@
 ## I'm **Vinesh Krishna Anne**!
 
 <!-- New Professional Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Vinesh+Krishna+Anne&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
