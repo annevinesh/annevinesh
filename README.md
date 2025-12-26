@@ -7,7 +7,7 @@
 </div>
 
 <!-- New Animated/Graphic Banner -->
-<img width="50%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30"/>
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
