@@ -1,10 +1,14 @@
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; width: 100%;">
 
-<!-- Image -->
-<img src="https://github.com/annevinesh/annevinesh/blob/main/Hi1.jpg?raw=true" width="150" height="150" alt="Vinesh Krishna Anne Image">
+  <!-- Image (takes 1/3 of the space) -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/annevinesh/annevinesh/blob/main/Hi1.jpg?raw=true" width="150" height="150" alt="Vinesh Krishna Anne Image">
+  </div>
 
-<!-- Typing SVG Text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Vinesh+Krishna+Anne+%F0%9F%91%8B;)](https://git.io/typing-svg)
+  <!-- Typing Animation Text (takes 2/3 of the space) -->
+  <div style="flex: 2; text-align: center;">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Vinesh+Krishna+Anne+%F0%9F%91%8B;)](https://git.io/typing-svg)
+  </div>
 
 </div>
 
