@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Image before the text -->
-<img src="(https://your-image-link-here.com](https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg)" width="150" height="150" alt="Vinesh Krishna Anne Image"> <!-- Replace with your image link -->
+<img src="(https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg)" width="150" height="150" alt="Vinesh Krishna Anne Image"> <!-- Replace with your image link -->
 
 <!-- Greeting Text -->
 ## Hi, I'm **Vinesh Krishna Anne**!
