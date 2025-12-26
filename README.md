@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Table layout: Image on the left, text on the right -->
- ![Vinesh Krishna Anne](https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true)
+ ![Vinesh Krishna Anne](https://github.com/annevinesh/annevinesh/blob/main/Hi1.jpg?raw=true)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=I'm+Vinesh+Krishna+Anne+%F0%9F%91%8B;)](https://git.io/typing-svg)
 
 
