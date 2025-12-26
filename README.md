@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Table layout: Image on the left, text on the right -->
-| ![Vinesh Krishna Anne](https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true) | I'm **Vinesh Krishna Anne**! |
+| ![Vinesh Krishna Anne](https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true&img height="50%"&img width ="50%") | I'm **Vinesh Krishna Anne**! |
 |--------------------------------------------------------------------------------------------------|-------------------------------------|
 
 </div>
