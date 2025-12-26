@@ -12,7 +12,6 @@
 <!-- New Animated/Graphic Banner (with animation) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30"/>
 
-<div align="center">
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annevinesh)
