@@ -4,7 +4,7 @@
 <img src="https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true" width="150" height="150" alt="Vinesh Krishna Anne Image"> <!-- Replace with your image link -->
 
 <!-- Greeting Text -->
-## Hi, I'm **Vinesh Krishna Anne**!
+## I'm **Vinesh Krishna Anne**!
 
 <!-- New Professional Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Vinesh+Krishna+Anne&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
