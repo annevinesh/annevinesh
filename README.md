@@ -1,13 +1,13 @@
 <div align="center">
 
-<!-- Image before the text -->
-<img src="(https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg)" width="150" height="150" alt="Vinesh Krishna Anne Image"> <!-- Replace with your image link -->
+<!-- Image before the greeting (150x150px) -->
+<img src="https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg?raw=true" width="150" height="150" alt="Vinesh Krishna Anne Image"> <!-- Replace with your image link -->
 
 <!-- Greeting Text -->
 ## Hi, I'm **Vinesh Krishna Anne**!
 
 <!-- New Professional Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:7F5BFF,100:0D1B3D&height=120&section=header&text=Vinesh+Krishna+Anne&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=Vinesh+Krishna+Anne&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
 
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
