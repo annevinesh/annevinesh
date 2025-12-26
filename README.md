@@ -6,7 +6,7 @@
 
 </div>
 
-<!-- New Animated/Graphic Banner -->
+<!-- New Animated/Graphic Banner (with animation) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30"/>
 
 <!-- Badges -->
