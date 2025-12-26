@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello%2C+I'm+Vinesh+Krishna+Anne!)](https://git.io/typing-svg)
+![Vinesh Krishna Anne](https://github.com/annevinesh/annevinesh/blob/main/Hi.jpg)
 
-<!-- New Professional Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Vinesh+Krishna+Anne&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:7F5BFF,100:0D1B3D&height=120&section=header&text=Vinesh+Krishna+Anne&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30"/>
 
-<!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annevinesh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvvinesh866@gmail.com) 
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1-703-618-1163)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvvinesh866@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1-555-555-5555)
 
 </div>
 
