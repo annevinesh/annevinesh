@@ -8,11 +8,13 @@
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=30"/>
+
 <!-- Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/vinesh-krishna)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annevinesh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vvvinesh866@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+1-555-555-5555)  <!-- Replace with your phone number -->
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+17036181163)
 
 </div>
 
